@@ -91,7 +91,7 @@ git clone https://github.com/Arshad-0/Hostel-Management-System.git
 ## 📞 **Contact & Support**  
 
 📧 **Email:** [arshadshaikh5370@gmail.com]  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/arshad-ahemad-shaikh-0b51b126a/)  
+🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/arshad-ahemad-shaikh-0b51b126a/)  
 🌐 **GitHub:** [Arshad-0](https://github.com/Arshad-0)  
 
 ---
