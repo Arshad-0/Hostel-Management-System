@@ -95,9 +95,3 @@ git clone https://github.com/Arshad-0/Hostel-Management-System.git
 🌐 **GitHub:** [Arshad-0](https://github.com/Arshad-0)  
 
 ---
-
-🔥 **Star this repo** ⭐ if you found it helpful! Happy coding! 💻🚀  
-
----
-
-This **engaging** README makes your project stand out! Let me know if you want any modifications. 🚀😊
